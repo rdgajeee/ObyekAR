@@ -1,6 +1,6 @@
-# Obyek-3D-AR-DakaHeldian
-Nama : Daka Heldian
-NPM  : 2113025020
+# Obyek-3D-AR-RindangCavallera
+Nama : Rindang Cavallera
+NPM  : 2113025013
 MK   : Augmented Reality
 Tugas: Buatlah obyek 3D mengunakan kombinasi dari a-frame primitives. Obyek harus cukup kompleks, minimal terdiri dari 5 obyek.
 Variasi bisa berdasarkan posisi, skala, warna, material, rotasi.
@@ -9,8 +9,8 @@ Source Code:
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Objek 3D Daka</title>
-    <meta name="description" content="Daka Heldian">
+    <title>Objek 3D Rindang</title>
+    <meta name="description" content="Rindang Cavallera">
     <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
     <script src="https://unpkg.com/aframe-teleport-controls@0.2.0/dist/aframe-teleport-controls.min.js"></script>
     <script src="https://unpkg.com/aframe-controller-cursor-component@0.2.2/dist/aframe-controller-cursor-component.min.js"></script>
